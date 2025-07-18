@@ -1,0 +1,18 @@
+p{
+    color: aqua;
+    font-size: medium;
+    font-weight: 800;
+}
+h1{
+    background-color: #232323;
+    color: #ffffff;
+}
+.first:hover{
+    cursor: pointer;
+}
+.second{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1,p,h2{
+    border-radius: 15px;
+}
